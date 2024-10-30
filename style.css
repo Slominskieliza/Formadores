@@ -9,7 +9,13 @@ body {
         display: flex;
         justify-content: center;
     }
-
-    .chamada-texto {
+.chamada-texto{
 margin-right: 5%;
+}
+
+img {
+height: 200px;
+    }
+    .categoria-episodios{
+display: flex;
     }
