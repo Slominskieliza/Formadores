@@ -4,9 +4,9 @@ body {
     }
     section {
         background-color: blueviolet;
-        padding-top: 70px;
-        padding-bottom: 50px;
-        padding-left: 100;
+        padding-top: 100px;
+        padding-bottom: 80px;
+        padding-left: 80px;
         display: flex;
         justify-content: center;
     }
